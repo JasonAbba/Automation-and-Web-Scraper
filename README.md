@@ -8,10 +8,10 @@ The idea of a web scraper with auto login functionality came to me when I had to
 ## Technologies
 
 The libraries used in the project are
-* Selenium
+* [Selenium](https://pypi.org/project/selenium/)
 * time
 * requests
-* tabulate
+* [tabulate](https://pypi.org/project/tabulate/)
 
 ## Setup
 
