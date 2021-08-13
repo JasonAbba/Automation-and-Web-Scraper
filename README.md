@@ -15,6 +15,6 @@ The libraries used in the project are
 
 ## Setup
 
-Download and Install [Python](https://www.python.org/downloads/)
-`pip install` the libraries
-To run the script `python scrapAttendance.py`
+* Download and Install [Python](https://www.python.org/downloads/)
+* `pip install` the libraries
+* To run the script `python scrapAttendance.py`
